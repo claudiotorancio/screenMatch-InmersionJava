@@ -5,86 +5,78 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04fedda0-f88b-402c-9438-bee8b9eb9bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/benchmarks/benchmark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/block.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/callbacks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/change.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/diff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/hunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/actor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/binary_parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/blame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/blame_line.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/blob.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/commit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/commit_stats.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/diff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/file_index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/file_window.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git_file_operations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git_index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git_object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/loose_storage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/merge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/pack_storage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/raw_object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/ref.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/remote.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/repo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/repository.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/status.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/status_file.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/sub_module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/tag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/git/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/screenmatch/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenmatch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Pelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Titulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculo/CalculadoraDeTiempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenmatch/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenmatch/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="aula-01" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;claudiotorancio&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/claudiotorancio/screenMatch-InmersionJava.git&quot;,
+    &quot;accountId&quot;: &quot;9ac92c0b-c234-4a30-8fde-4cbc59115e85&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2fqfIY6n5MJxbMdYbYpN82teWbo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "aula-01",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/julie/Documents/inmersion_java/screenmatch",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/julie/Documents/inmersion_java/screenmatch/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.folding",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;aula-02&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/julie/Documents/inmersion_java/screenmatch&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/julie/Documents/inmersion_java/screenmatch/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -99,14 +91,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -116,7 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1714533454059</updated>
       <workItem from="1714533454370" duration="9535000" />
-      <workItem from="1714609703021" duration="315000" />
+      <workItem from="1714609703021" duration="13689000" />
+      <workItem from="1714931879192" duration="52000" />
     </task>
     <servers />
   </component>
@@ -128,7 +113,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="aula-02" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MY_COMMITS" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

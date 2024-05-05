@@ -1,46 +1,31 @@
-import java.util.Scanner;
+import Modelo.Pelicula;
+import Modelo.Serie;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.println("Bienvenidos a la inmersion java");
-        //System.out.println("Pelicula Matrix");
+        Principal principal = new Principal();
+        principal.muestraElMenu();
+       /* Pelicula matrix = new Pelicula();
+        matrix.setNombre("Matrix");
+        matrix.setTiempoDeDuracionEnMinutos(120);
+        matrix.setFechaDelanzamiento(1999);
+        matrix.muestraFichaTecnica();
 
-        int fechaDelanzamiento = 1999;
-        double evaluacion = 4.5;
-        boolean incluidoEnPlanBasico = true;
-        String nombre = "matrix";
-        String sinopsis = """
-                Matrix la mejor pelicula del milenio
-                """;
-        double mediaEvaluacionUsuario =  0;
+        Serie friends = new Serie();
+        friends.setNombre("Friends");
+        friends.setFechaDelanzamiento(1996);
+        friends.setTemporadas(10);
+        friends.setEpisodiosPorTemporadas(22);
+        friends.setDuracionEnMinutosPorEpisodio(30);
+        friends.muestraFichaTecnica();
 
-        System.out.println("Pelicula: " + nombre);
-        System.out.println("Año: " +fechaDelanzamiento);
-        System.out.println("Puntuacion: " + evaluacion);
-        System.out.println(incluidoEnPlanBasico);
+        Pelicula encanto = new Pelicula();
+        encanto.setNombre("Encanto");
+        encanto.setTiempoDeDuracionEnMinutos(110);
+        encanto.setFechaDelanzamiento(2022);
 
-        double mediaEvaluacion =( 4.5 + 4.8 + 3)/3;
-
-        System.out.println("La media evaluacion es: " + mediaEvaluacion);
-
-        if (fechaDelanzamiento >=  2023) {
-            System.out.println("Pelicula popular");
-        }else {
-            System.out.println("Pelicula Retro");
-        }
-
-        for (int i = 0; i < 3 ; i++) {
-           Scanner teclado = new Scanner(System.in);
-            System.out.println("ingresa evaluacion");
-            double notaMatrix = teclado.nextDouble();
-            mediaEvaluacionUsuario = mediaEvaluacionUsuario + notaMatrix;
-        }
-        System.out.println(" la evaluaxion de matrix matrix" +
-                "realizada por el usuario es: " + mediaEvaluacionUsuario/3);
-
+        encanto.muestraFichaTecnica();*/
     }
 }
